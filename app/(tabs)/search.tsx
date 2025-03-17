@@ -1,14 +1,14 @@
 import { StyleSheet, Text, View } from "react-native";
 import React from "react";
 
-const Onboarding = () => {
+const search = () => {
   return (
     <View>
-      <Text>Onboarding</Text>
+      <Text>search</Text>
     </View>
   );
 };
 
-export default Onboarding;
+export default search;
 
 const styles = StyleSheet.create({});
